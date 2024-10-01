@@ -8,4 +8,4 @@ Dada mi experiencia como QA, puedo desarrollar facilmente actividades como, crea
 
 ## Languages
 Tengo experiencia en Matlab, Python, con esto estoy aprendiendo selenium, he manejado lo basico de HTML, CSS y Javascript.
-A nivel de idiomas, manejo el frances avanzado, el ingles basico y portugues basico
+A nivel de idiomas, manejo el frances avanzado, el ingles basico y portugues basico. ME enceuntro reforzando mi ingles 
