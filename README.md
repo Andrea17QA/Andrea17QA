@@ -6,5 +6,5 @@ Hola, soy una persona apasionada por aprender cosas nuevas, actualmente me encue
 ## Contáctame
 Dada mi experiencia como QA, puedo desarrollar facilmente actividades como, creación y ejecución de TC, tambien, analisis en el cumplimiento de requisitos de parte del cliente
 
-## Languages
-Tengo experiencia en Matlab, Python, con esto estoy aprendiendo selenium, he manejado lo basico de HTML, CSS y Javascript
+## Skills
+poseo muy buenas habilidades comunicativas y soy capaz de adquirir nuevos conocimientos rapidamente
