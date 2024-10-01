@@ -10,4 +10,4 @@ Dada mi experiencia como QA, puedo desarrollar facilmente actividades como, crea
 Jira - Azure: Creación de US, creación y ejecución de TC
 Jmeter: Pruebas de rendimiento basicas
 Excel
-Selenium: Automatizacion de pruebas basicas 
+Selenium: Automatizacion de pruebas basicas  y serenity 
