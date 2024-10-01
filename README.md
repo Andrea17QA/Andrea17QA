@@ -7,4 +7,4 @@ Hola, soy una persona apasionada por aprender cosas nuevas, actualmente me encue
 Dada mi experiencia como QA, puedo desarrollar facilmente actividades como, creación y ejecución de TC, tambien, analisis en el cumplimiento de requisitos de parte del cliente
 
 ## Hobbies
-Me gusta dibujar tanto en papel como de manera digital Me gusta pintar Estoy aprendiendo a tocar kalimba, un instrumento de percusión a mi se me parece a una lira o un piano no sé
+Me gusta dibujar tanto en papel como de manera digital Me gusta pintar Estoy aprendiendo a tocar kalimba, un instrumento de percusión a mi se me parece a una lira o un piano no sé o qiza mas bonito :D 
