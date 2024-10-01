@@ -7,4 +7,4 @@ Hola, soy una persona apasionada por aprender cosas nuevas, actualmente me encue
 Dada mi experiencia como QA, puedo desarrollar facilmente actividades como, creación y ejecución de TC, tambien, analisis en el cumplimiento de requisitos de parte del cliente
 
 ## Skills
-poseo muy buenas habilidades comunicativas y soy capaz de adquirir nuevos conocimientos rapidamente
+Soy muy buena trabajando en equipo, aprendo rapido y me motiva mucho encontrar maneras mas optimas de hacer las cosas, poseo de buena comunicación tanto con mis superiores como con los compañeros de nivel y me gusta todo lo que tenga que ver con codificación
