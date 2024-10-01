@@ -6,7 +6,15 @@ Hola, soy una persona apasionada por aprender cosas nuevas, actualmente me encue
 ## Contáctame
 Dada mi experiencia como QA, puedo desarrollar facilmente actividades como, creación y ejecución de TC, tambien, analisis en el cumplimiento de requisitos de parte del cliente
 
+<<<<<<< HEAD
 ## Hobbies
 Me gusta dibujar tanto en papel como de manera digital
 Me gusta pintar
 Estoy aprendiendo a tocar kalimba, un instrumento de percusión a mi se me parece a una lira o un piano no sé
+=======
+## Technologies
+Jira - Azure: Creación de US, creación y ejecución de TC
+Jmeter: Pruebas de rendimiento basicas
+Excel
+Selenium: Automatizacion de pruebas basicas 
+>>>>>>> technologies
